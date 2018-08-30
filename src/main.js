@@ -3,12 +3,11 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import Swiper from 'swiper'
 import 'animate.css'
-import 'swiper/dist/css/swiper.css'
-import './assets/swiper.animate1.0.3.min'
+// import 'swiper/dist/css/swiper.css'
+// import './assets/swiper.animate1.0.3.min'
 
-window.Swiper = Swiper
+// window.Swiper = Swiper
 
 Vue.config.productionTip = false
 
